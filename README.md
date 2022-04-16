@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning drf, django, python, algorithm
-- 👯 I’m looking to collaborate on drf API
+- 🙌 I’m looking to collaborate on drf API
 - 🥕 And my blog https://velog.io/@heyoni
 - 📫 How to reach me: hhheyoni@gmail.com
 

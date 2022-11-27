@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning drf, django, python, algorithm
-- 🙌 I’m looking to collaborate on drf API
+- 🌱 I’m currently learning fastapi, drf, django, python, algorithm
+- 🙌 I’m looking to collaborate on django(rest-framework) or FastAPI
 - 🥕 And my blog https://velog.io/@heyoni
 - 📫 How to reach me: hhheyoni@gmail.com
 
